@@ -36,3 +36,18 @@
   border: none;
   cursor: pointer;
 } */
+ .student{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid hsla(0, 0%, 50%, 0.8);
+background-color: aqua;
+border: 10px;
+border-radius: 10px;
+box-shadow: 10px 10px 10px hsl(0, 50%, 20%);
+margin: 10px;
+
+ }
+ .student p{
+  margin: 0;
+ }
